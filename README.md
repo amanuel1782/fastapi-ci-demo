@@ -1,1 +1,0 @@
-# fastapi-ci-demo
